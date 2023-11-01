@@ -9,11 +9,9 @@
 - Get product recommendations: Customers can receive personalized product recommendations from the LLM model. Customers inform the LLM model of their purchase needs, or the LLM model automatically analyzes the situation while chatting with the customer to provide product recommendations. The information and links of the recommended products are sent by the LLM model in the form of messages to customers.
 
 
--Go to online store: To enter the online store interface to browse products and use the online shopping functions. Customers can actively visit the online store to use online shopping functions or directly jump to the product location through the product recommendation linked by the LLM. 
+- Go to online store: To enter the online store interface to browse products and use the online shopping functions. Customers can actively visit the online store to use online shopping functions or directly jump to the product location through the product recommendation linked by the LLM. 
 
--Place an order: To place an order after the customer selects the product. Customers need to select the products they want to buy and provide their personal information such as name, address and contact details. After customers confirm the purchase details, the order will be submitted to the system for processing.
-
-Make payment: To pay for the submitted order to complete the purchase. Customers need to  select the payment method after placing an order. Customers will receive a notification response that the payment has been processed. If the customer's chosen payment account has an insufficient balance or there is an error, the system prompts the customer to choose another payment method or make a new payment.
+- Place an order: To place an order after the customer selects the product. Customers need to select the products they want to buy and provide their personal information such as name, address and contact details. After customers confirm the purchase details, the order will be submitted to the system for processing.
 
 - Chat in person: To establish individualized chat sessions between customers and nutritionists. Customers can engage in one-on-one chats with nutritionists recommended by the LLM model. Customers are encouraged to send health issues or requirements that cannot be solved by the LLM to the nutritionist. The nutritionist will conduct a more professional analysis and give practical suggestions based on the customer's dialogue.
 
