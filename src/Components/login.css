@@ -1,0 +1,29 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem auto;
+    max-width: 400px !important;
+}
+
+.login-error {
+    color: red;
+}
+
+.form-container {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.form-input {
+    margin: 0.5rem 0 !important;
+}
+
+.form-button {
+    margin: 0.5rem 0 !important;
+}
+
+
+
+
+
