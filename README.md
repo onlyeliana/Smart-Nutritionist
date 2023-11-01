@@ -1,5 +1,5 @@
 # Smart-Nutritionist
-### feature
+
 - Register: To create a customer account before using the functions of the app. Users need to provide valid username and password credentials on registering. Only customers can register by themselves in the system. For users of other roles, they need to be added by the system admin. 
 
 - Login: Log in to the app with an existing account to use functions. Users must have a valid account and enter the correct username and password. Users with different roles have permission to access their specific functions after a successful login.
