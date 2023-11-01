@@ -1,0 +1,11 @@
+.login-btn {
+    text-align: center;
+    border: 1px solid #154726;
+    border-radius: 5px;
+    background-color: #154726;
+    color: #FAF3E6;
+    font-size: 20px;
+    height: 30px;
+    width: 80px;
+    transition-duration: 0.5s;
+}
